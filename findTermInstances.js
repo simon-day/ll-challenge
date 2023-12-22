@@ -13,7 +13,7 @@
  *                     Each term is only listed once, regardless of how many times it appears.
  *
  * @example
- * countTermInstances("The Customer is not our client", "Customer, us")
+ * findTermInstances("The Customer is not our client", "Customer, us")
  * // Returns: ["Customer", "our"]
  */
 function findTermInstances(text, terms) {
