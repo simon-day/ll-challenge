@@ -1,0 +1,10 @@
+{
+  "name": "ll-challenge",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Simon Day",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
